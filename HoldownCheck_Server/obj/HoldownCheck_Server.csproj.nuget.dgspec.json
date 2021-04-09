@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dngo\\Documents\\HoldownCheck_Server\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {}
+    "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dngo\\Documents\\HoldownCheck_Server\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {
+    "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dngo\\Documents\\HoldownCheck_Server\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
+        "projectUniqueName": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
         "projectName": "HoldownCheck_Server",
-        "projectPath": "C:\\Users\\dngo\\Documents\\HoldownCheck_Server\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
-        "packagesPath": "C:\\Users\\dngo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dngo\\Documents\\HoldownCheck_Server\\HoldownCheck_Server\\obj\\",
+        "projectPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
+        "packagesPath": "C:\\Users\\darte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dngo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\darte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -73,7 +76,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

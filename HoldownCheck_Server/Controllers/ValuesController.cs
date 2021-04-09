@@ -28,7 +28,7 @@ namespace WebApplication1.Controllers
 
             var loc = Enum.GetNames(typeof(eLocation));
 
-            return new object[] { hd, ab, po, loc };
+            return new object[] { hd, po, ab, loc };
         }
 
         // GET api/values/5
