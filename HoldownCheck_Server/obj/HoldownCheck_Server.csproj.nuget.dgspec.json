@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {}
+    "C:\\Users\\darte\\Documents\\Projects\\anhThanh1\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {
+    "C:\\Users\\darte\\Documents\\Projects\\anhThanh1\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
+        "projectUniqueName": "C:\\Users\\darte\\Documents\\Projects\\anhThanh1\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
         "projectName": "HoldownCheck_Server",
-        "projectPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
+        "projectPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh1\\anhThanh\\HoldownCheck_Server\\HoldownCheck_Server.csproj",
         "packagesPath": "C:\\Users\\darte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh\\HoldownCheck_Server\\obj\\",
+        "outputPath": "C:\\Users\\darte\\Documents\\Projects\\anhThanh1\\anhThanh\\HoldownCheck_Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

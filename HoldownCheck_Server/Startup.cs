@@ -30,8 +30,9 @@ namespace WebApplication1
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
                 builder.AllowAnyOrigin()
+                       .AllowAnyHeader()
                        .AllowAnyMethod()
-                       .AllowAnyHeader();
+                       .Build();
             }));
 
 
@@ -48,10 +49,11 @@ namespace WebApplication1
             {
                 app.UseHsts();
             }
-
+            app.UseCors("MyPolicy"); // This line must go first
             //app.UseHttpsRedirection();
+            app.UseStaticFiles();
             app.UseMvc();
-            app.UseCors("MyPolicy");
+
         }
     }
 }
